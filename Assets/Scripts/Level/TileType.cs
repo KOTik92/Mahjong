@@ -1,0 +1,27 @@
+public enum TileType
+{
+    None,
+    Acorn,
+    Beer,
+    Beet,
+    Bread,
+    Cake,
+    Cherry,
+    Chocolate,
+    Grapes,
+    Granat,
+    Meat,
+    Tomato,
+    Orange,
+    Potato,
+    Kiwi,
+    Pie,
+    Apple,
+    Borth,
+    Milk,
+    Straberry,
+    Fish,
+    Pepper,
+    Octopus,
+    Chiken
+}
